@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Bootcamp GoStack v11 da Rocketseat
+  Desafio: Conceitos do Node.js do Bootcamp GoStack v11 da Rocketseat
 </h3>
 
 <p align="center">
