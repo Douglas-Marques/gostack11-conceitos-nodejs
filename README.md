@@ -13,8 +13,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Douglas-Marques/gostack-11?style=social">
+  <a href="https://github.com/Douglas-Marques/gostack11-conceitos-nodejs/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Douglas-Marques/gostack11-conceitos-nodejs?style=social">
   </a>
 </p>
 
