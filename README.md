@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Douglas-Marques/gostack11-conceitos-nodejs?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://www.linkedin.com/in/douglasDGmarques">
     <img alt="Made by Douglas Marques" src="https://img.shields.io/badge/made%20by-douglasDGmarques-%2304D361">
   </a>
 
